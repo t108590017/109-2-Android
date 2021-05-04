@@ -1,0 +1,8 @@
+Q1
+A:Copy the image files into your project's drawable folder.
+
+Q2
+A:Add the android:onClick attribute to the ImageView in the layout and use it to call the click handler in the Activity.
+
+Q3
+A:The click handler method must be public, return void, and define a View as its only parameter.

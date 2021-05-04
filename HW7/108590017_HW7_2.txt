@@ -1,0 +1,8 @@
+Q1
+A:All list items look the same.
+
+Q2
+A:RecyclerView.ViewHolder
+
+Q3
+A:View.onClickListener

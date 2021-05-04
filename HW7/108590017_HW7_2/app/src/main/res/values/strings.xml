@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">108590017_HW7_2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title0">Low-Carb Cream of Mushroom Soup</string>
+    <string name="content0">You\'ll never go back to the canned variety after trying this recipe that features fresh mushrooms. Cream cheese creates a rich texture while thickening the low-carb soup.</string>
+    <string name="title1">Keto Instant Pot Soup</string>
+    <string name="content1">Easy to whip up in less than hour, this hearty soup is packed with flavor thanks to bold low-carb ingredients like bacon, green bell peppers, and Cheddar cheese.</string>
+
+    <string name="title2">Low-Carb Chicken-Vegetable Soup</string>
+    <string name="content2">No all low-carb soups are keto appropriate. In this case, a veggie packed soup may have too many carbs for the strict counters, but for general low-carb eaters, there\'s a lot to like in this soup. First, it has all the comfort of chicken noodle, but with far fewer carbs. You won\'t be left hungry though; each bite is packed with chicken, squash, carrots, and more.</string>
+
+    <string name="title3">Creamy Keto Taco Soup with Ground Beef</string>
+    <string name="content3">"Our new family favorite" says carliemae. "I am trying to do keto and it’s hard with a picky husband and a one year old. If you're looking for family friendly keto recipes, this is it." </string>
+
+    <string name="title4">Low Carb Broccoli Soup</string>
+    <string name="content4">Two pounds of broccoli disappear into this creamy soup thanks to the help of an immersion blender. Reviewer Dori says, "My kids who don't particularly like broccoli not only loved this soup they asked for seconds."</string>
+
+    <string name="title5">Low-Carb Chicken and Mushroom Soup</string>
+    <string name="content5">Leftover chicken can be easily transformed into this restaurant-quality soup. Fresh tarragon infuses the entire dish, being both cooked into the soup and sprinkled on top just before serving. </string>
+
+    <string name="recipe0">INGREDIENTS \n ¼ cup butter\n 5 cups coarsely chopped fresh mushrooms \n ½ cup finely chopped onion \n 1 clove garlic, minced\n ½ teaspoon salt \n ½ teaspoon ground black pepper \n ¼ teaspoon dried thyme \n 1 (32 ounce) carton chicken broth \n 2 cups heavy whipping cream \n 1 (4 ounce) package cream cheese \n 2 tablespoons sherry</string>
+    <string name="recipe1">INGREDIENTS \n 1 tablespoon olive oil \n 1 large yellow onion, diced \n 2 cloves garlic, minced \n 1 head cauliflower, coarsely chopped \n 1 green bell pepper, chopped (Optional) \n 1 tablespoon onion powder \n salt and ground black pepper to taste \n 1 (32 fluid ounce) container chicken stock \n 2 cups shredded Cheddar cheese \n 1 cup half-and-half \n 6 slices cooked turkey bacon, diced \n 1 tablespoon Dijon mustard \n 4 dashes hot pepper sauce</string>
+
+    <string name="recipe2"> INGREDIENTS \n 6 cups water \n 2 cups chicken stock \n 4 medium celery stalks, sliced \n 3 medium carrots, sliced \n ½ cup chopped yellow onion \n 2 cloves garlic, minced \n 2 tablespoons chopped fresh parsley \n 1 teaspoon ground thyme \n ½ teaspoon paprika \n salt and ground black pepper to taste \n 1 bay leaf \n 1 pound chopped cooked chicken \n 4 cups sliced yellow squash \n </string>
+    <string name="recipe3">INGREDIENTS \n 1 pound ground beef \n ½ cup chopped onion \n 2 cloves garlic, minced \n 1 tablespoon ground cumin \n 1 teaspoon chili powder \n 1 (8 ounce) package cream cheese, softened \n 2 (14.5 ounce) cans beef broth \n 2 (10 ounce) cans diced tomatoes and green chiles \n ½ cup heavy cream \n 2 teaspoons salt, or to taste \n n</string>
+    <string name="recipe4">INGREDIENTS \n 1 tablespoon extra-virgin olive oil \n 1 large onion, finely chopped \n 2 cloves garlic, minced \n 2 pounds broccoli, chopped \n ¼ teaspoon salt \n ⅛ teaspoon ground black pepper \n 5 cups vegetable broth \n ¼ cup freshly squeezed lemon juice \n ¼ cup shredded Cheddar cheese, or as desired (Optional) \n </string>
+    <string name="recipe5">INGREDIENTS \n ½ cup butter \n 1 cooked chicken breast, cubed \n 1 small white onion, finely chopped \n 3 cloves garlic, finely chopped \n 1 ½ pounds fresh mushrooms, sliced \n 3 cups chicken stock \n 3 tablespoons chopped fresh tarragon, divided \n salt and freshly ground black pepper to taste \n 2 cups heavy whipping cream \n </string>
+
+</resources>

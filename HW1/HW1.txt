@@ -1,0 +1,11 @@
+Question 1
+A:activity_main.xml
+
+Question 2
+A:app_name
+
+Question 3
+A:AVD Manager
+
+Question 4
+A:Info and Verbose and Debug

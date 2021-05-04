@@ -1,0 +1,10 @@
+Q1
+A:colorPrimary
+
+
+Q2
+A:Design Support Library
+
+
+Q3
+A:Any color shade that starts with A.

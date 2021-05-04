@@ -1,0 +1,8 @@
+Q1
+A:Basic Activity template
+
+Q2
+A:com.android.support:design
+
+Q3
+A:To provide the Up button for a child screen Activity, declare the parent Activity in the child Activity section of the AndroidManifest.xml file.
